@@ -1,0 +1,1 @@
+console.log (" meu nome e bia ".trim())
